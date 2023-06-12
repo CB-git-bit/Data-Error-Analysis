@@ -1,40 +1,17 @@
-# Data and Error Analysis - School Work
+**README - Data Error Analysis School Work**
 
-This repository contains the assignments and related materials for the Data and Error Analysis course. Please note that the purpose of sharing this repository is to showcase the work done during the course and provide a reference for future students. **Copying and plagiarizing the content is strictly prohibited**, as it undermines the learning experience and violates academic integrity.
+This repository contains my school work on data error analysis, specifically three assignments (Assignment 1 to Assignment 3). The purpose of sharing these assignments is to showcase my understanding and application of various concepts related to error analysis and statistical data modeling.
 
-## Assignments
+Please note that the PDF files of the Jupyter notebooks are provided instead of the actual code to prevent potential plagiarism by other students currently enrolled in the course. It is important to emphasize that copying or plagiarizing these assignments is strictly prohibited and goes against academic integrity principles. The purpose of sharing these materials is for reference and learning purposes only.
 
-### Assignment 1 - Describing Data
-- Assignment Link: [Assignment 1 PDF](https://github.com/CB-git-bit/Data-Error-Analysis/blob/main/P252-A1-CBisol.pdf)
-- Topics Covered: Motivations for developing a strong understanding of data, Introduction to programming in Python, Assigning uncertainties
+**Assignments:**
 
-### Assignment 2 - Modelling Statistical Data
-- Assignment Link: [Assignment 2 PDF](https://github.com/CB-git-bit/Data-Error-Analysis/blob/main/P252-A2-CBisol.pdf)
-- Topics Covered: Propagating uncertainties, The nature of statistical data, Statistical distributions and hypothesis testing
+1. **Assignment 1 - Describing Data:** This assignment focuses on understanding the motivations behind developing a strong understanding of data. It also includes an introduction to programming in Python, assigning uncertainties, propagating uncertainties, and analyzing statistical distributions. The PDF file for Assignment 1 can be found [here](https://github.com/CB-git-bit/Data-Error-Analysis/blob/main/P252-A1-CBisol.pdf).
 
-### Assignment 3 - Comparing Data & Model
-- Assignment Link: [Assignment 3 PDF](https://github.com/CB-git-bit/Data-Error-Analysis/blob/main/P252-A3-CBisol.pdf)
-- Topics Covered: The Normal distribution, Modelling experimental data, Understanding the meaning of probabilities, The Monte Carlo method
+2. **Assignment 2 - Modelling Statistical Data:** The second assignment delves into statistical distributions, hypothesis testing, the Normal distribution, and modeling experimental data. It builds upon the concepts covered in Assignment 1 and explores more advanced statistical techniques. The PDF file for Assignment 2 can be accessed [here](https://github.com/CB-git-bit/Data-Error-Analysis/blob/main/P252-A2-CBisol.pdf).
 
-## Course Topics
+3. **Assignment 3 - Comparing Data & Model:** The third assignment focuses on comparing data and models, understanding the meaning of probabilities, and employing the Monte Carlo method for statistical analysis. It builds on the knowledge gained from the previous assignments and applies it to real-world scenarios. The PDF file for Assignment 3 is available [here](https://github.com/CB-git-bit/Data-Error-Analysis/blob/main/P252-A3-CBisol.pdf).
 
-Throughout the course, the following topics were covered:
+These assignments cover various topics essential for comprehending data error analysis and statistical modeling. They serve as a demonstration of my proficiency in analyzing and interpreting statistical data, as well as my ability to utilize programming skills in Python for data analysis.
 
-1. Motivations for developing a strong understanding of data
-2. Introduction to programming in Python
-3. Assigning uncertainties
-4. Propagating uncertainties
-5. The nature of statistical data
-6. Statistical distributions and hypothesis testing
-7. The Normal distribution
-8. Modelling experimental data
-9. Understanding the meaning of probabilities
-10. The Monte Carlo method
-
-## Disclaimer
-
-The materials shared in this repository are for educational purposes only. The assignments and accompanying PDFs are intended to demonstrate the understanding and application of data and error analysis concepts. It is essential to approach your assignments with integrity and originality. Copying or plagiarizing any content from this repository or any other source is considered an academic violation and goes against the principles of academic honesty.
-
-If you have any questions or concerns about the materials in this repository or the course, please reach out to your instructor or course coordinator.
-
-**Note: Please respect the academic integrity policies of your institution and use the materials provided here responsibly.**
+If you have any questions or would like to discuss these assignments further, please feel free to contact me.
